@@ -35,10 +35,10 @@ body {
   max-width: 400px; /* Limit maximum width */
   margin: 20px auto; /* Center horizontally */
   border-radius: 10px;
-  border: none;
+  border: 1;
   font-size: 24px;
   user-select: none;
-  outline: none;
+  outline: 3px;
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
